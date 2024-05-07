@@ -84,4 +84,4 @@ Komento:
 1,15,30,45 * * * * cd /home/users/jtjuslin/www/kananen/javat/lib/; java ProxyPalvelu > /home/users/jtjuslin/www/kananen/data.json
 ```
 
-
+Loppuraportti: https://github.com/OP2-Black/FrontEnd/blob/121798b81e11ee41c4805180590bdca509914c8c/Loppuraportti.md
